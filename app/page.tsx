@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center gap-10 bg-white w-[90%] py-20">
       <h1 className="text-2xl font-bold text-blue-900">
-        NSS MEC's Waynad Relief Fund Collection
+        NSS MEC&apos;s Waynad Relief Fund Collection
       </h1>
       <h2 className="text-4xl font-bold">Payment Info</h2>
       <Image
